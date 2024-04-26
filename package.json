@@ -20,9 +20,7 @@
     "cov": "rm -rf lib-cov; jscoverage lib lib-cov; env JSLIB=lib-cov mocha -R dot && env JSLIB=lib-cov mocha -R html-cov >coverage.html; open coverage.html"
   },
   "dependencies": {
-    "@ewoudenberg/difflib": "0.1.0",
-    "colors": "^1.4.0",
-    "dreamopt": "~0.8.0"
+    "@ewoudenberg/difflib": "0.1.0"
   },
   "devDependencies": {
     "coffeescript": "^2.6.1",
