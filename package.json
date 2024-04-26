@@ -10,7 +10,7 @@
   "homepage": "https://github.com/andreyvit/json-diff",
   "license": "MIT",
   "repository": {
-    "url": "git@github.com:andreyvit/json-diff.git"
+    "url": "git@github.com:subhamayd2/json-diff.git"
   },
   "main": "lib/index.js",
   "bin": "bin/json-diff.js",
